@@ -1,0 +1,543 @@
+\includeonly{../minutes.cls}
+\documentclass{minutes}
+\usepackage{listings}
+\lstset{language=tex,basicstyle=\small,keywordstyle=\bfseries}
+\usepackage[utf8]{inputenc}
+\usepackage{emoji}
+\author{43\textsuperscript{rd} board of I.C.T.S.V. \ia}
+\title{BM 32 Minutes}
+\vcode{BM32}
+\date{04-05-2022}
+
+\begin{document}
+	\linenumbers
+	\maketitle
+
+	\begin{algemeen}
+		\aanwezigen
+			\persoon{bl}{Bart}{Bart Leenheer}
+			\persoon{ws}{Wouter}{Wouter Suidgeest}
+			\persoon{bd}{Bram}{Bram van Dartel}
+			\persoon{mj}{Michael}{Michael Janssen}
+			\persoon{rm}{Rosan}{Rosan Maas}
+		    \persoon{qh}{Quirijn}{Quirijn Hoenink}
+		    \persoon{mf}{Mariska}{Mariska Frelier}
+		\afwezigen
+		    \persoon{wj}{Wesley}{Wesley Joosten}
+		\voorzitter{\blbl}
+		\notulist{\mjmj}
+		\locatie{RA 2209}
+		\fillin{03-05-2022 20:00}
+		\tijden{09:02}{12:00}
+	\end{algemeen}
+
+	\section{Opening}
+		\opening
+
+    \section{Show-and-tell}
+
+	\section{Announcements}
+	\wj\ is absent. \ws\ is absent but just woke up.
+
+	\mj\ needs to leave at 11:00
+
+    \newpage
+	\section{Setting the agenda}
+		\agenda
+
+	\section{Secretarial}
+    	\subsection{Received documents}
+
+    	    \subsubsection{Feuten zijn Feutbaar}
+    	    \bl: From Jeffrey about making candis clean the room and balcony. He also mentioned that we should print a new poster for on the door.
+
+    	    The poster needs to be replaced, laminating is not an option. We will print it again.
+
+    	    \ap{\bl}{Print new front door poster}
+
+    	    \ap{\mf}{Plan a weekend in the summer vacation to clean the balcony and room}
+
+    	    \subsubsection{Beheer update}
+    	    \ws: The SysCom is looking at doing a lot of improvements to the room. Mainly during the `beheer weekend' of May 27-29. They are asking for free lunch/dinner during that weekend, as they would put in a lot of time. I don't really mind that, but I think that we (together with the CB) should first have a good idea of the room renovations before they do a lot of things which turn out useless 2 months later.
+
+    	    The present board members think this should be possible, but we should know what Wesley thinks. They at least have the committee outing budget.
+
+    	    \ap{\wj}{Look into budget for the SysCom weekend}
+
+    	    \subsubsection{VAG Workgroup}
+    	    \ws: Bram wanted to discuss this
+
+    	    It might be an idea to send one of us with a SocCie-member to hold their hand. An alternative is sending someone like Egbert, with a strong opinion. Because this is not an input sessions anymore, but an Q&A, we will go ourselves. Bart en Michael will go.
+
+    	    \subsubsection{Afvalcontainer pizzadozen}
+    	    \ws: Michel asks whether we want a new container in the educafe, mainly because of pizzaboxes which take up a lot of space. He does add that we would need to emtpy it.
+
+    	    It is idiotic that we need to do this ourselves. It is a good idea to set a container there, but we think this should not be our responsibility. Bram will respond to Michel.
+
+    	    \ap{\bd}{Sit with Michel about the pizza container}
+
+    	    \subsection{Hulp alumnidag}
+    	    \bl: Unfortunately, ENIAC can't be present in the room during the alumni day, anyone else we could ask?
+
+    	    We will ask in the \ia\ whatsapp group. But if this does not result in anything, we won't open the room.
+
+
+
+    	\subsubsection{Good Ideas}
+
+    	    \paragraph{Batavierenrace} \ws: Keg in bakfiets
+
+    	    \paragraph{Een goed idee} \ws: Idea from Dries to replace the ceiling of the `ongezelligheidsruimtes'.
+
+    	    \paragraph{Pizza slijs} \ws: Pizza slijssss
+
+    	    \paragraph{DiMiiBo} \ws: By Lars, a drink created around the Mii characters of a Wii.
+
+    	    Send to the DipsomanIA.
+
+    	    \paragraph{Prom dance workshop maar dan anders} \ws: Lars wants a pole dance workshop.
+
+    	    \rm: I am in favor, see scintilla website
+
+    	    Send to the Hyper.
+
+    	\subsection{Outgoing documents}
+
+		\subsection{Approval of minutes}
+		\begin{itemize}
+    		    \item BM30:\\
+    		    read: \ws, \mj, \bl, \rm
+
+    		     \item BM31:\\
+    		    read: \ws, \mj, \bl, \rm
+
+    		    \item GMM221:\\
+		        read: \ws, \mj, \wj, \rm
+
+		        This item will be removed.
+    		\end{itemize}
+
+
+	\section{Action points}
+       	\begin{reactiepuntenlijst}
+        	\reap{BM27.06}{\bl}{Order new board pins}{O}{}
+            \reap{BM28.08}{\bl}{Prepare the WISO and WISO Cantus.}{O}{}
+            \reap{BM29.02}{\bl}{Sit with Joost to talk about the workflow of the MedIA.}{O}{}
+            \reap{BM30.01}{\bl}{Talk with Niels about poking people more often, together with Bram for the built-in ERO system.}{O}{}
+            \reap{BM30.14}{\bl}{Expand/make a How-To-GMM document with giving presentations and asking former boards for proofreading.}{O}{}
+            \reap{BM30.24}{\bl}{Update/check the semi-annual report for the EROs.}{O}{}
+            \reap{BM30.25}{\bl}{Create a global timeline of when committees need to be formed. Possible also a second timeline for other important board stuff.}{O}{}
+            \reap{BM30.29}{\bl}{Schedule a working evening for writing the wiki.}{C}{}
+            \reap{BM31.01}{\bl}{Ask ENIAC to keep the room open during the alumniday, and to promote the alumniday.}{C}{}
+            \reap{BM31.05}{\bl}{Contact the SU about the ethical advisor idea.}{O}{}
+            \reap{BM31.06}{\bl}{Add the policy weekend script to the wiki.}{O}{}
+            \reap{BM31.07}{\bl}{Talk with Didi about the faculty funding of Abacus primary members.}{O}{}
+            \reap{BM31.12}{\bl}{Notify the SU about solutions for the ERO problem.}{O}{}
+            \reap{BM31.14}{\bl}{Add the Maastricht association to the WISO agenda}{O}{}
+            \reap{BM31.18}{\bl}{Buy a Ketel matuur bottle.}{O}{}
+            \reap{BM31.22}{\bl}{Invite 42 and the members of merit for the honorary members dinner.}{O}{}
+            \reap{BM20.01}{\ws}{Arrange the Twentstudent rowing activity}{O}{}
+            \reap{BM20.03}{\ws}{Make EEMCS clothing}{O}{}
+            \reap{BM22.02}{\ws}{Fix the rellen met ME activity.}{O}{}
+            \reap{BM27.02}{\ws}{Fix a new old board board.}{O}{}
+            \reap{BM30.03}{\ws}{Get in contact with vluchteling}{O}{}
+            \reap{BM30.10}{\ws}{Create proposals for new room designs.}{O}{}
+            \reap{BM30.27}{\ws}{Make an HR change for the study tour reserves and run it past Steven.}{O}{}
+            \reap{BM31.15}{\ws}{Fix active members presents kitchen package.}{O}{}
+            \reap{BM31.19}{\ws}{Write a card for Florian's graduation.}{O}{}
+            \reap{BM9.03}{\wj}{Buy USB-C KVMs}{O}{}
+            \reap{BM16.02}{\wj}{Translate the HR/statuten/financiele stukken}{O}{}
+            \reap{BM19.08}{\wj}{`Crediteer' the socks that are transferred to the cookie corner}{O}{}
+            \reap{BM21.04}{\wj}{See if the committee pages are up-to-date.}{O}{}
+            \reap{BM28.03}{\wj}{Find out how board pins were funded in the past.}{O}{}
+            \reap{BM30.06}{\wj}{Elaborate the idea of showing roosters on our screens.}{O}{}
+            \reap{BM30.07}{\wj}{Create an elaboration for online bookkeeping}{O}{}
+            \reap{BM30.12}{\wj}{Try to buy a new blue tie in the Primark}{O}{}
+            \reap{BM30.20}{\wj}{Update the semi-annual report for the historIA.}{O}{}
+            \reap{BM30.23}{\wj}{Update/check the semi-annual report for the EEMCS Trip.}{O}{}
+            \reap{BM30.28}{\wj}{Make a stub IBC budget together with Gilian and Jochem.}{O}{}
+            \reap{BM31.11}{\wj}{Create the profit strategic plan.}{O}{}
+            \reap{BM31.16}{\wj}{Try to finish the HistorIA.}{O}{}
+            \reap{BM31.17}{\wj}{Make an issue to change the room duty tasks.}{O}{}
+            \reap{BM26.01}{\bd}{Create a proposal for new SBZ voting distributions.}{O}{}
+            \reap{BM8.09}{\bd}{Search for new ordering companies}{O}{}
+            \reap{BM28.12}{\bd}{Ask Stress what they think of the MBasement dibs.}{O}{}
+            \reap{BM30.02}{\bd}{Create a wiki for claudia.}{C}{}
+            \reap{BM30.15}{\bd}{Remake the how-to-house-lunches wiki page now that the study is a little larger.}{O}{}
+            \reap{BM30.21}{\bd}{Make an estimation of the impact of the BIEMt on activism.}{C}{11 persons became active after the BIEMt, around 20 persons were active after the BIEMt.}
+            \reap{BM31.02}{\bd}{Let Scintilla organize the drink for the alumniday without us.}{O}{}
+            \reap{BM31.03}{\bd}{Work out the idea of rewarding EROs and bartenders}{O}{}
+            \reap{BM31.08}{\bd}{Fix upcoming activities between past activities on the TV near the couch}{O}{Issue has been made on Github}
+            \reap{BM31.10}{\bd}{Promote the initiative fund}{O}{}
+            \reap{BM31.13}{\bd}{Figure out where the top-rated consumer badges were bought.}{C}{}
+            \reap{BM23.08}{\mj}{Arrange notebooks for our members}{O}{}
+            \reap{BM24.01}{\mj}{Add the IBC piece and disclaimer to the wiki.}{O}{}
+            \reap{BM27.04}{\mj}{Ask Stress how they deal with the end-of-the-year GMM.}{O}{}
+            \reap{BM30.09}{\mj}{See if we can have free premium Slack}{O}{}
+            \reap{BM30.16}{\mj}{Start the organization of a Q1 company dinner together with Wout this year.}{O}{}
+            \reap{BM30.30}{\mj}{Add educational emails and birthdays on screens to the privacy document.}{O}{Michael will ask the campus jurist}
+            \reap{BM31.04}{\mj}{Organize the summer/side job market}{O}{}
+            \reap{BM30.08}{\rm}{Write the almanac piece which Rosan needs to write}{C}{}
+            \reap{BM30.17}{\rm}{Make wiki page for handling educational complaints.}{C}{}
+            \reap{BM30.18}{\rm}{Update the IA education page together with Niels and promote it over Canvas.}{S}{}
+            \reap{BM30.22}{\rm}{Update/check the semi-annual report for the DiesCie.}{C}{}
+            \reap{BM31.20}{\rm}{Give Florian his Thales packet}{O}{}
+            \reap{BM31.21}{\rm}{Give the Pixelate collaborations to the companies}{s}{}
+            \reap{BM28.13}{\mj\ \&\ \bd}{Search for new drinking rooms.}{O}{}
+            \reap{BM31.09}{\mj\ \&\ \ws}{Reorder the Slack}{C}{}
+
+		\end{reactiepuntenlijst}
+
+    \section{Feedback \& Evaluation}
+
+        \subsection{Board}
+
+        \subsection{Past activities}
+            \subsubsection{EEMCS Elektroshock}
+
+            Proto=feut. There was some miscommunication with Proto, and the attendance was not that great.
+            \subsubsection{Good idea drink}
+
+            Was nice. Promotion could have been better.
+            \subsubsection{Prom dance workshop}
+            \subsubsection{ENIAC Port tasting}
+            \subsubsection{Bata + BBQ}
+
+            Was really weird that the IA shirts were not used. The rest of the evaluation will be moved until Wouter is there.
+            \subsubsection{SymCie interest drink}
+
+            Had around 10 people.
+
+            \ap{\mj}{Promote the SymCie one more time}
+            \subsubsection{Inhouse day BakerTilly}
+
+            Went well. CoLeX was feut.
+            \subsubsection{Game Night}
+
+            Cancelled. In the future it might be nice to add enrollment as an indication for how many people are coming.
+            \subsubsection{Wallstreet drink}
+
+            Went nice.
+
+            Intermezzo: We should pay more attention to activity attendance.
+            \subsubsection{EEMCS workshop 3d printing}
+
+    \section{Function update}
+    \subsection{\bl}
+    \bl:
+
+    \subsection{\ws}
+    \ws:
+
+    \subsection{\wj}
+    \wj:
+
+    \subsection{\bd}
+    \bd:
+
+    \textit{Bram is using his function update for show and tell again}
+
+    \subsection{\mj}
+    \mj: I think our income on collaboration this year will be slightly lower because of the cancelled workshops and lunch lecture.
+
+    \mj: Today I have a work-in moment with Wout, focussed on External affairs, such as sending mailings, contact with companies in general and FIASCO.
+
+    \subsection{\rm}
+    \rm: A module 4 complaint, apparently this was already a issue last year so I am going after this as hard as I can. the big parts are missing resources and people getting added in groups that quit the study more than a module ago.
+
+    \section{Upcoming activities}
+    \subsection{\ia}
+        \subsubsection{Case ASML: Wafer Heating}
+        \rm: this is canceled
+
+        \mj: Give me a rope pls
+        \subsubsection{(D)ET day}
+
+        Everything is arranged, we believe
+        \subsubsection{GameJam}
+
+        Not enough enrollments.
+        \subsubsection{Pandora + Cake drink}
+        \subsubsection{GMM}
+
+        We think everything is arranged.
+
+    \subsection{Extern}
+
+    \subsection{Brasletters}
+    \begin{itemize}
+        \item Euros roeien (Wouter will arrange this)
+        \item VIA has a pin and a skippy (Bart will arrange this)
+        \item We need to make EEMCS clothing (Wouter will do this)
+        \item SpeBi with Skinti (Wesley)
+    \end{itemize}
+
+    \section{General Affairs}
+        \subsection{Tags (\mj)}
+        Wouter wanted to bring this up again as we discussed this before and we made a plan but then nothing happened with it. The thing now is that the issue is open on the website, and it will take some time before that is finished. However it could be easy to already implement it at other places, we will wait until the issue is finished before we do anything else with it, than it can be a nice reveal everywhere at once.
+
+        \subsection{Training Mariska}
+        \bl: who's going to train Mariska?
+
+        \rm: Everyone?
+
+        This was more about function specific/general tasks which are generally in the inworksheet, and could be useful for Mariska. Everybody quickly edited their tasks in the sheet to see what could be useful to her, but it's very little. We'll probably see what more is useful the coming months, and Mariska will just actively ask people to teach her what's needed.
+
+        \subsection{Beer bench rental to Proto (\ws)}
+        The benches were rented to Proto during their cantus and some were damaged severely, especially the lacquer. We'll try to fix that soon and send the costs of a can of lacquer to proto. Looks like that's 43 euros.
+
+        Now we also need to decide whether we'll keep renting our beer benches out to Proto and/or cantusses. We've rented them out to 4 or 5 cantusses already and only one time it went wrong, the other ones went very good. So maybe we could stop renting out to Proto, or at least Proto cantusses. The board didn't rent them from us with malicious intent, but still, their members did ruin our benches and they could do it again. For now the policy that we'll keep is that we pay more attention to which activities from Proto we'll rent them out to, at least not to Proto cantus.
+
+        \subsection{Gift to the room (\ws)}
+        \bl: unsure if we want to discuss this with kandis
+
+        \rm: Wasn't this pretty much decided already anyway?
+
+        We'll discuss this over Slack such that the kandis don't know what gift we'll get. But no it isn't decided yet.
+
+        \subsection{Random books we received (\ws)}
+
+        Rosan already added them to the library.
+
+        \subsection{How to work when \ws\ and \wj\ are on holiday (\ws)}
+
+        This is about the Yorinf lustrum trip. Since it's during `hemelvaart', we only actually miss them for 2 days. We'll just put an auto-reply on our emails and have a slightly busier week later.
+
+        \subsection{Bata BBQ}
+        First, the organization just needs to be documented such that it goes better next year. Wouter and Bram will do that. An idea that Michael has is to have at least 2 people responsible, one for the bbq and one for the drink, as a lot of activists are needed and they ask questions.
+
+        \ap{\ws\ \&\ \bd}{Write a script for the bata BBQ.}
+
+        Furthermore, Jeffrey and Niels picked up some things during the bbq, and they brought this up in a little bit of an annoying tone. After this, Wesley really had a rage outbreak against them, very publicly in the middle of the barbecue with 200 people around it. Wouter explained the entire situation a little better to everyone, but we'll evaluate this with Wesley here next BM, as there's little to say now.
+
+    	\subsection{Tea party}
+
+        \gebeurtenis{Michael leaves the meeting as he has something else planned.}
+
+    \newpage
+
+	\section{Committees and Responsibilities}
+
+        \subsection{\bl}
+            \subsubsection{MedIA}
+            Krisiyan is probably joining as a new member, waiting for him to confirm. But he was present at a meeting Monday.
+
+            \subsubsection{hERO}
+            \subsubsection{Kick-IT}
+            \subsubsection{SkiCie}
+            \bl: They want us to be financially responsible, ack?
+
+            Sure, but we need to check with Wesley whether this would be handy as we would probably also need a credit card.
+
+            \subsubsection{TAPC}
+            \bl: Tom mentioned that he might want to join as general member, as he has experience with the domjudge system. If so we might want to charge him as general member.
+
+            A new member, Bart, wants to learn how the system works and also join the committee next year, so then Tom would only have to help this year.
+
+            We'll charge him next week.
+
+            \subsubsection{RIAlly}
+            They had a first working moment, and now it seems like it's actually going smooth. Mainly because Leo wanted to be a chair in the end.
+
+            \subsubsection{Activism grants}
+            \subsubsection{ENIAC}
+            \subsubsection{OS}
+            \subsubsection{SU}
+            \subsubsection{WISO}
+            \bl: VIA is joining with 4 people but they're likely not attending the Cantus :((
+
+            \bl: So currently Gewis and Sticky aren't joining and Via is only joining the WISO :/
+
+            We haven't had a lot of reactions yet. If we get too many notices of absence, we might cancel the cantus and just go to the fecie party which is the same evening.
+
+            \ap{\bl}{Poll the number of attendees for the WISO cantus.}
+
+            \subsubsection{Mental Health}
+            \bl: @\wj\ how's it currently going with the Mental Health Day finances, the invoice for food and the speaker have already been forwarded to Jolanda, but I was wondering how it stands with the stuff that Eline bought.
+
+            \subsubsection{Active members weekend}
+            \bl: so far 3 people without unlimited alcohol, 48 people who go by bus and 58 total sign-ups. Maybe we can do some more promo?
+
+            Bart will also book a second bus, than we have place for 80 people.
+
+            \subsubsection{Task Force HR and by-laws}
+            Bart has a working evening tomorrow.
+
+            -
+        \subsection{\ws}
+            \subsubsection{Cooking Club}
+            They would cook at the GameJam, but that's cancelled now.
+
+            They also discussed at the last meeting that they don't really like the current equipment, as you can't really cook things.
+
+            \subsubsection{GameCie}
+            \subsubsection{Hyper}
+            Bata went pretty nice.
+
+            \subsubsection{Pandora}
+            Starts Monday, the committee is quite stressed but Wouter thinks it will go nice.
+
+            \subsubsection{Parents day}
+            \bl: Soooo, parents day is during J.E.M.O.E.D.E.R. and we're all joining. We should probably ask former board members if they can guide the parents.
+
+            Normally there's a small talk about IA, and now there are no board members and no candidate board members.
+
+            Bart will ask Jeffrey and Jelle vdW to give a little talk during the day, they are not joining JEMOEDER and can probably also give a nice talk.
+
+            \ap{\bl}{Ask Jeffrey and Wijngaard to help during the parents day}
+
+            \subsubsection{TakeshCie}
+            They had their first brainstorm, and they have a pretty good idea of the event. Will probably take place in 2023 so we have NPO budget left in 2022. So if people still have ideas for the budget of this year, we could try something.
+
+            \subsubsection{XMasCie}
+            Christmas BBQ is in about a month, promotion should start this week.
+
+            \subsubsection{IAPC}
+            \subsubsection{Master mail}
+            Ruben asked for another master mail, Rosan has nothing for that, Wouter will send one with Michael.
+
+            \subsubsection{Merchandise}
+            The order for the new ties has been made.
+
+            \subsubsection{Public Void Close}
+            \subsubsection{Tutors}
+            \subsubsection{Weekly mail}
+            \subsubsection{EEMCS BBQ}
+            A whatsapp group has been created.
+
+            -
+        \subsection{\wj}
+            \subsubsection{EEMCS Trip}
+            \subsubsection{FeCie}
+            \subsubsection{HistorIA}
+            \subsubsection{LANCie}
+            \subsubsection{SailCie}
+            \subsubsection{EWI Oktoberfest}
+
+            \subsubsection{Cookie corner}
+            \subsubsection{ICOS}
+            \subsubsection{I18N}
+            \subsubsection{LISA}
+            \subsubsection{EEMCS Workshops}
+            -
+        \subsection{\bd}
+            \subsubsection{aXi}
+            The enrolments for the Lego activity will open today.
+
+            \subsubsection{Bartenders}
+            Next meeting we need to discharge some people. Bram has a whole list. And Krisiyan will be added as a new bartender.
+
+            \subsubsection{BoA}
+            We can stop the boa next week.
+
+            \subsubsection{DipsomanIA}
+            Robin and Lars need to be clicked out of the committee. But also next week.
+
+            \subsubsection{ECie}
+            They had a brainstorm yesterday but Bram has no idea how it went.
+
+            \subsubsection{Kick-IT}
+            \subsubsection{SocCie}
+            They will start with having weekly meetings now, and they're starting some organization for the SocCie summer sounds.
+
+            \subsubsection{StuCie}
+            After a last few conflicts with the committee Bram really doesn't want to work with this committee anymore.
+
+            Bart could probably take the committee over, but he does note that he would in that case maybe think about throwing Steven out of the committee. That would cause a lot of problems and a lot of drama, but there are also a lot of problems and drama with him in the committee. There's a lot of toxicity from the committee towards us, and they probably also think that comes from us the same way. However, we really don't think that would be the way to go, and it would cause way too many problems that we don't think yet.
+
+            For now, Bart will take the committee over, as we think he would be the best one. We'll wait with any other things that we might need to do with the committee. They have an internal evaluation tomorrow, and we'll have an evaluation of the tour next week, we'll see how that goes.
+
+            Two things that Bart needs to take to the next meeting, the committee wants us to compensate for the extra 2K which are caused by us delaying the flights. We won't do that, we could only do that if something happened very close to the start of the trip. The other thing is that they need to show proof of the relaxations on the requirements for SRC funding.
+
+            \subsubsection{WWW}
+            The committee isn't working very well, very small issues are fixed very quickly and are reviewed. But larger things sometimes get developed, most of the times by Bram, but they don't get reviewed so nothing gets implemented. Bram will suggest the idea of having a working evening again soon.
+
+            There are some nice new updates lately, the board has less access to claudia, and the automatic study check has been added.
+
+            \subsubsection{\ia\ top 100}
+
+            \subsubsection{EEMCS Meeting}
+            \subsubsection{CFM}
+            \subsubsection{Arbo}
+            \subsubsection{SBZ}
+            Scintilla threw in a keg of HJ at the bata BBQ while explicitly not having permission of Aniek. This keg was then also tended by drunk participants from the sister association that brought the keg. Both things aren't allowed by the contract. It will be evaluated at the next AB meeting, and we'll see whether they can decide some consequences or something. However, Stress also constantly makes mistakes and they never get any consequences, but the difference there is that people always find out afterwards.
+
+            \subsubsection{Bata BBQ}
+            \subsubsection{Board weekend}
+            Bram and Michael will start planning soon.
+
+            -
+        \subsection{\mj}
+            \subsubsection{CoLeX}
+            \mj: I had to cancel the ASML Case (and the Witteveen+Bos case at the BM last week) because of insufficient enrollments. I want to sit with the CB to devise certain ways of reaching end Bachelor/start Master students, as I think these are the groups we are not reaching enough.
+
+            \mj: Next to this, the Inhouse day at Baker Tilly was from what I heard a success, only thing was that Wander forgot to send an information mail, which really annoyed me Monday...
+
+            \subsubsection{GameJam}
+            \mj: Only 4 people are enrolled, which is one team. So we would like to move the activity. The committee recommends 2,3,4th of June.
+
+            \subsubsection{I/O Vivat}
+            \mj: Rope
+            \subsubsection{I/O Vivat Task Force}
+            \subsubsection{SymCie}
+            \mj: The interest lunch had ~10 people. The deadline for enrolling is next week on Friday, afterwards I will plan applications. I will ask Mariska if she is available to help with the application process.
+            \subsubsection{SysCom}
+            \mj: The SysCom has planned a weekend where they will focus on some points that still have to be done. They asked if they could have some budget for food, because they are working an entire weekend for the association.
+            \subsubsection{Privacy}
+            \subsubsection{SNiC}
+            \subsubsection{AMAD}
+            -
+        \subsection{\rm}
+            \subsubsection{DiesCie}
+            \subsubsection{EC}
+            \rm: a part of them works great, a part not, they are also getting kind of frustrate with the second part now which is better I guess but they are kinda exhausting...
+            \subsubsection{IBC}
+            \rm: The flight they had booked for the departure got canceled and changed to a flight a day later, which doesn't work for them anymore and with the lack of other flight options they have looked into alternative travel. They communicated this with the participants and they reacted that they would be okay with alternative ways of travel, the committee is looking into the finances of this frantically and tomorrow the final decision will be made about if the trip will continue.
+            \subsubsection{PromCie}
+            \rm: The dance workshop was quite a succes, they are now working on the script for the day itself, ordering all the decorations and the find-your-date-drink.
+            \subsubsection{ECie}
+            \rm: workevening the 3rd, will hopefully get a lot done.
+            \subsubsection{Books}
+            \subsubsection{EEMCS Meeting}
+            \rm: can I get an actionpoint to plan this?
+
+            \ap{\rm}{Plan the next EEMCS meeting}
+            \subsubsection{Master Kick-In}
+            \subsubsection{\ia\ Room duty}
+            \subsubsection{SNiC}
+            \subsubsection{WISO}
+            -
+
+	\section{A.O.B.}
+
+	\section{Question round}
+
+	\section{Next BM}
+    	\begin{itemize}
+            \item 11\textsuperscript{th} of May 14:00
+            \item 18\textsuperscript{th} of May 14:00
+            \item 31\textsuperscript{th} of May 10:00
+        \end{itemize}
+
+    \section{Good quotes/Bad puns}
+
+
+\newpage
+	\section{Resum\'e action points and decisions}
+		\subsection*{Action points}
+			\actiepunten
+		\subsection*{Decisions}
+			\besluiten
+		\subsection*{Memorandum}
+		    \begin{memorandum}
+		    BM1.01 & Discord link to new students during matching days.\\
+		    BM16.01 & Kroegcollege
+		    \end{memorandum}
+
+	\section{Closing}
+		\sluiting
+
+	\textbf{Alcohol line}
+	\ \\
+    \noindent\rule{\textwidth}{1pt}
+\end{document}
